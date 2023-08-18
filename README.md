@@ -1,4 +1,4 @@
-# Adam-s-Research
+# Large Language Model Applications In Virtual Reality Applied To The Detection Of Cyber Harassment 
 # Reading Group Presentations - Fall 2023
 | Date         | Presenter | Papers                                                                                                                       | Topics                          | Venue              | Year            | Recording     | Slides     |
 |--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------------|-----------------|-----------|--------|
