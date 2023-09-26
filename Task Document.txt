@@ -1,0 +1,18 @@
+Data Collection Mechanism
+1. Create a Robot that can autonomously go in circles
+2. Create Camera2Image functionality
+3. Creat 6 camera perspective attached to robot
+4. 6 Camera perspective should be triggered to capture images when "Player" is in scene
+==============================
+Scene Design
+1. Create Sexually suggestive animations 
+2. Position "Players" in various poses (leveraging animations)
+
+=============================
+Additional Notes:
+
+-We need to decide on URP or HDRP pipeline. I think URP will be good, but it will be dependent on the assets we want to use. 
+Therefore, further exploration of the Unity Asset store to finalize the identfied assets we will be using for characters ("Player") and environement.
+
+-The goal of this design is to automate the data collection process with an autonmous virtual robot that has 6 cameras on it for varing angles.
+We will have a scene with both consenual and non-consenual animations running simultaneously. This scene will then be used to create our dataset.
